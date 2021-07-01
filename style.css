@@ -5,7 +5,12 @@
 }
 body{
     font-family: "open Sans",sans-serif;
-    background: #fef2f2;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqz_64onsdh7YoR6V5g0wgHjr8P9tIb-jcaSZpszYSWSnlkhQI16QoCyQ&s=10);
+    background-attachment: fixed;
+    background-size: 100vw 100vh;
+    background-repeat:repeat;
+    position: move;
+}
     min-height: 100vh;
     display: flex;
     align-items: center;
