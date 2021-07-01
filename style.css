@@ -18,8 +18,8 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50% , -50%);
-    width: 240px;
-    height: 419px;
+    width: 512px;
+    height: 512px;
     border-radius: 20px;
     box-shadow: 0 5px 18px rgba(0,0,0,0.6);
     overflow: hidden;
